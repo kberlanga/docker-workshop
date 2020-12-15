@@ -15,6 +15,4 @@ Para finalizar, ejecuta un nuevo contenedor basado en la imágen recién creada 
 
 # SOLUCIÓN
 **Respuesta**
-`docker run --name=flask -d -p 5000:8000 kberlanga/static_flask`
-
-Adjunto [evidencia](/captura_ejercicio4)
+- `docker run --name=flask -d -p 5000:8000 kberlanga/static_flask` Adjunto [evidencia](./captura_ejercicio4)

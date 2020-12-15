@@ -25,7 +25,7 @@ Vuelve a ejecutar el script de [`find.py`](ejercicio-3/find.py) y contesta a la 
 - 1er contenedor:
 `docker run -d -p 27017:27017 --name mongo -v mongo_volume:/data/db mongo`
 
--2do contenedor:
+- 2do contenedor:
 `docker run -d -p 27017:27017 --name mongo2 -v mongo_volume:/data/db mongo`
 
 **Respuesta**
